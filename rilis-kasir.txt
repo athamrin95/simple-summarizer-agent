@@ -1,0 +1,5 @@
+Tim produk menunda rilis aplikasi kasir ke 12 November. Uji coba di dua toko cabang menemukan keterlambatan saat mencetak struk pada jam sibuk. Penyebabnya ada pada antrean pencetakan, bukan pada perhitungan harga.
+
+Tim teknis akan membatasi jumlah struk yang dicetak bersamaan dan menambahkan pesan menunggu di layar kasir. Perbaikan ini dijadwalkan selesai 5 November, lalu diuji ulang di toko yang sama selama tiga hari.
+
+Pelanggan yang sudah memakai versi percobaan tetap dilayani dengan aplikasi saat ini. Manajer toko akan menerima catatan rilis dan langkah pelatihan singkat satu hari sebelum pembaruan dipasang.
