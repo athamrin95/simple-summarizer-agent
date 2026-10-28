@@ -3,7 +3,6 @@ from pathlib import Path
 import sys
 from openai import OpenAI
 from dotenv import load_dotenv
-from json import JSONDecodeError
 
 INSTRUCTIONS = """\
 You are an expert AI document and text summarization specialist. Your primary task is to read the
